@@ -1,0 +1,1 @@
+Foi utilizada a linguagem HTML para criar a estrutura do formulário e organizar os campos do questionário, além de CSS (dentro da própria página) para definir o estilo visual, como cores, espaçamento e layout, tornando a página mais organizada e visualmente agradável.
